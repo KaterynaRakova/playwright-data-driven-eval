@@ -1,0 +1,44 @@
+[
+    {
+      "name": "TC1 Web - Implement user authentication in To Do with Feature + High Priority",
+      "project": "Web Application",
+      "cardTitle": "Implement user authentication",
+      "column": "To Do",
+      "tags": ["Feature", "High Priority"]
+    },
+    {
+      "name": "TC2 Web - Fix navigation bug in To Do with Bug",
+      "project": "Web Application",
+      "cardTitle": "Fix navigation bug",
+      "column": "To Do",
+      "tags": ["Bug"]
+    },
+    {
+      "name": "TC3 Web - Design system updates in In Progress with Design",
+      "project": "Web Application",
+      "cardTitle": "Design system updates",
+      "column": "In Progress",
+      "tags": ["Design"]
+    },
+    {
+      "name": "TC4 Mobile - Push notification system in To Do with Feature",
+      "project": "Mobile Application",
+      "cardTitle": "Push notification system",
+      "column": "To Do",
+      "tags": ["Feature"]
+    },
+    {
+      "name": "TC5 Mobile - Offline mode in In Progress with Feature + High Priority",
+      "project": "Mobile Application",
+      "cardTitle": "Offline mode",
+      "column": "In Progress",
+      "tags": ["Feature", "High Priority"]
+    },
+    {
+      "name": "TC6 Mobile - App icon design in Done with Design",
+      "project": "Mobile Application",
+      "cardTitle": "App icon design",
+      "column": "Done",
+      "tags": ["Design"]
+    }
+  ]
